@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-rocketseat",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoEvangelista06/nodejs-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoEvangelista06/nodejs-rocketseat/issues"
+  },
+  "homepage": "https://github.com/EnzoEvangelista06/nodejs-rocketseat#readme"
+}
